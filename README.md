@@ -1,4 +1,6 @@
 # Open Source Components for Xamarin
+
+[![Join the chat at https://gitter.im/xamarin/XamarinComponents](https://badges.gitter.im/xamarin/XamarinComponents.svg)](https://gitter.im/xamarin/XamarinComponents?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Open Source Components for Xamarin are a collection of open source components (including bindings and plugins) created by Xamarin and others in the community.
 
 ## Xamarin Supported Open Source Components
